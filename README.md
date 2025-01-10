@@ -5,10 +5,10 @@ I am a passionate developer and researcher with a love for coding, science, and 
 ## 🔬 About Me
 
 - 💼 Currently working as a [Your Job Title] at [Your Company/Organization]
-- 🎓 Graduated with a degree in [Your Degree] from [Your University]
-- 🔭 Research interests: [Your Research Interests]
-- 🌱 Currently learning: [What You're Learning]
-- 🌈 Pronouns: They/Them
+- 🎓 Graduated with a degree in streetsmarts from life!®
+- 🔭 Research interests: AI, machine learning, devops, DeFi, NFTs, sustainable energy, digital footprints, Web3, Github, UX, Full StacK Development, App Developing, story telling, music, digital art AND ALL THINGS IN COPILOT. 
+- 🌱 Currently learning: Currently I am learning how to intergrate all things Copilot, Azure and Github. And dabling with trying to create a brand. 
+- 🌈 Pronouns: She/Her 
 
 ## 💻 Technologies & Tools
 
