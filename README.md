@@ -50,7 +50,7 @@ Thank you for being a part of our community. Stay tuned for our upcoming posts, 
 
 ## 🌟 Projects
 
-- **[Project Name](Link to Project)**: Brief description of the project.
+- **[rainbowbeast_copilot_ai] https://stackblitz.com/~/github.com/RainbowScientist5/rainbowbeast_copilot_ai)**
 - **[Project Name](Link to Project)**: Brief description of the project.
 - **[Project Name](Link to Project)**: Brief description of the project.
 
