@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosystem: "npm" # Example: Replace with your package manager (e.g., "npm", "pip", "maven", etc.)
+    directory: "/" # Root directory or specify a subdirectory for the dependencies
+    schedule:
+      interval: "weekly" # Update interval (daily, weekly, or monthly)
+  - package-ecosystem: "pip" # Example for Python dependencies
+    directory: "/" # Adjust if Python dependencies are in a specific folder
+    schedule:
+      interval: "weekly"
