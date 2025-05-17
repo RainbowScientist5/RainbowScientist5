@@ -1,4 +1,4 @@
-# 👋 Hi, I'm RainbowScientist5!
+# 👋 Hi, I'm RainbowScientist!
 <a href="https://app.daily.dev/rainbowbeast"><img src="https://api.daily.dev/devcards/v2/I0Q8CnQsUguAQkpKhkCmH.png?type=wide&r=mxl" width="652" alt="Rainbowbeast's Dev Card"/></a>
 ### I'm a passionate developer 👨‍💻 and researcher 🔬 with a love for coding 💻, science 🧬, and technology 🚀. My goal is to collaborate on innovative projects 🌟 and contribute to open-source communities 🌐.
 
