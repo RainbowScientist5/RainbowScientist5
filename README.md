@@ -1,6 +1,5 @@
 # 👋 Hi, I'm RainbowScientist!
-<a href="https://app.daily.dev/rainbowbeast"><img src="https://api.daily.dev/devcards/v2/I0Q8CnQsUguAQkpKhkCmH.png?type=wide&r=mxl" width="652" alt="Rainbowbeast's Dev Card"/></a>
-### I'm a passionate developer 👨‍💻 and researcher 🔬 with a love for coding 💻, science 🧬, and technology 🚀. My goal is to collaborate on innovative projects 🌟 and contribute to open-source communities 🌐.
+<iframe src="https://allmylinks.com/widget/profile/rainbowbeast5.html?dark=0&big=0" width="395" height="235.5" style="max-width:100%;display: block; margin: 0; border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>### I'm a passionate developer 👨‍💻 and researcher 🔬 with a love for coding 💻, science 🧬, and technology 🚀. My goal is to collaborate on innovative projects 🌟 and contribute to open-source communities 🌐.
 
 ## 🔬 About Me
 
