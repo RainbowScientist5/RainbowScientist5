@@ -27,10 +27,10 @@
   Accessible documentation templates for diverse collaborators
 
 ## 🌐 Website & Contact
-- Portfolio: [www.rainbowscientists.io](https://www.rainbowscientists.io)  
-- 📬 Email: gloria@rainbowscientists.io  
-- 💼 LinkedIn: [linkedin.com/in/rainbowscientist](https://linkedin.com/in/rainbowscientist)  
-- 🐦 Twitter: [@RainbowDevOps](https://twitter.com/RainbowDevOps)
+- Portfolio:  
+- 📬 Email: gloriam@rsdvops.onmicrosoft.com
+- 💼 LinkedIn: https://www.linkedin.com/in/gmoran1623
+- 🐦 Twitter: [@rsdvops](https://twitter.com/rsdvops)
 
 ## 📍 Location & Availability
 Las Vegas, NV (Pacific Time)  
